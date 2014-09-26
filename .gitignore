@@ -1,0 +1,14 @@
+*.ipr
+*.iws
+*.iml
+var/*
+target/*
+build/*
+*/target/*
+.gradle/*
+out/*
+dependency.txt
+.tablesawcache
+.idea
+log/*
+kairosdb.properties
